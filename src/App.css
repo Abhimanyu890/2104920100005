@@ -1,6 +1,35 @@
+
 .App {
+  font-family: Arial, sans-serif;
   text-align: center;
 }
+
+h1 {
+  color: #333;
+}
+
+div {
+  margin: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+select {
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 
 .App-logo {
   height: 40vmin;
